@@ -40,4 +40,4 @@ These should probably go somewhere else, but I collect them here for now.
 
 - [minimal reproducible examples](https://stackoverflow.com/help/minimal-reproducible-example)
 - [Java vs Python](https://stackoverflow.com/questions/441824/java-virtual-machine-vs-python-interpreter-parlance/1732383#1732383)
-- [WebAssembly Threads ready to try in Chrome 70](https://developers.google.com/web/updates/2018/10/wasm-threads)# compiler-construction-2021
+- [WebAssembly Threads ready to try in Chrome 70](https://developers.google.com/web/updates/2018/10/wasm-threads)
