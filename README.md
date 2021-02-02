@@ -1,7 +1,5 @@
 # compiler-construction-2021
 
-**(mostly copied from 2020 ... subject to change for 2021)**
-
 **Notes and Materials** for a course on Compiler Construction Spring 2021 at Chapman University.
 
 - [Syllabus](syllabus.md)  
