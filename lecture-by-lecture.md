@@ -1,5 +1,4 @@
 # Lecture by Lecture
 
-<!--
-- [Lecture 1.1](lecture-1.2.md): Deterministic Finite Automata (DFA).
--->
+- L1.1: [Searching for Strings](https://hackmd.io/@alexhkurz/Sk555wUlu).
+
