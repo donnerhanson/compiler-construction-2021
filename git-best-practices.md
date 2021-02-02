@@ -8,8 +8,7 @@ I collect here some lessons learned from using git for [assignments](assignments
 - Proper use of git will be considered for grading.
   - Complete solutions uploaded to the repo just before  sumission and not containing a trail of your work **will not be accepted for grading**.
 
-- Assignment 1 will be individual work. Every student will invite me as a collaborator and document the progress on Assignment 1 by regularly updating git.       
-- Assignments 2-5 can be done groups of two. 
+- Assignments can be done groups of two. 
    - To manage collaboration in the group, it makes sense to make a repo for each group. 
    - Unless there are major changes in the composition of the groups, do not make a new repo for a new assignment. Rather create meaningful subfolders such as `Assignment2`, etc.
 - Use the repo to create a trail of your work. Commit and push often.
@@ -20,7 +19,7 @@ I collect here some lessons learned from using git for [assignments](assignments
    - Run `git status`. If you see under `Untracked files` names that you don't recognize, they are likely machine generated files. Do not track those. Rather add these names to a file named `.gitignore` at the root of your repo.
   - Look at some [examples](https://github.com/github/gitignore) of `.gitignore` files. But I recommend not to copy one of them. Rather build them up incrementally using `git status` and add files you do not want to track to `.gitignore` step by step.
 
-- Do not create different versions of files by copying them. Use branches. For example, for Assignments 3-5:
+- Do not create different versions of files by copying them. Use branches. For example:
     - The master branch has the latest working version of your code.
     - Each team member has their own branch. For example, one is working on expressions and the other on statements. Each time one member has a new rule implemented, it is merged into the master branch.
 

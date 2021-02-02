@@ -2,16 +2,6 @@
 
 See also the [Fowler School of Engineering Program Learning Outcomes](https://docs.google.com/document/d/1OESCtPUolnWFV_qRFuRzNrzxmUtYr5H-dFaYVmPUKY0/edit?usp=sharing).
 
-This course teaches compiler construction not as a low level machine language oriented course but as a high level software engineering course. The aim is to give students the means to design and implement their own domain specific language (DSL). The [quote](http://wiki.c2.com/?DomainSpecificLanguage)
-
-        Any sufficiently large software project becomes a DSL by virtue of the
-        library of functions built up to implement the solution to the specific
-        problem the project was concieved to address. 
-
-indicates how DSLs are related to software engineering in general.
-
-While writing a fully fledged compiler is a big task beyond what we can do in a one semester course, with a good mix of theory based software engineering tools, it is well in the scope of a semester to learn how to create a grammar, parser, typechecker and interpreter for a small but realistic programming language. In our case, we choose a fragment of C++, which should be familiar to many students and emphasises that the taught methods apply to real existing mainstream programming languages.
-
 The course is structured around the assignments which should give students the practical skills needed to create their own domain specific language. These include how to 
 
 - define a language by writing a grammar

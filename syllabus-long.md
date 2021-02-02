@@ -1,18 +1,8 @@
 # Syllabus
 
-## General Information
-- Class: CPSC 402 Compiler Construction 
-- Instructor: [Alexander Kurz]()  
-- Lectures: 
-  - 402-01: TuTh 8:30AM - 9:45AM Keck 156  
-  - 402-01: TuTh 1:00PM - 2:15PM Keck 156  
-- Office Hours:  TuTh 9:45AM-11:00AM, Hashinger 208  
-
 ## Course Description 
 
 Prerequisites, MATH 250, CPSC 350, CPSC 354. Students will learn the software tools and programming techniques needed to design and build a prototype implementation of a domain specific language. On the theoretical side, students will learn enough of the mathematical underpinnings of the tools to apply them with confidence. On the practical side, students will write a grammar and build a lexer, parser, typechecker and interpreter for a fragment of C++.
-
-Note that this has been modified from the current [course catalogue](https://catalog.chapman.edu/content.php?catoid=11&navoid=556).
 
 ## Course Learning Outcomes
 
@@ -79,11 +69,11 @@ Finally, students will learn to appreciate that mathematics is not only importan
 
 ## Overview
 
-The course is a sequel of last semester's course on [Programming Languages](https://github.com/alexhkurz/programming-languages-2019). Nevertheless, with some extra effort, it can also be followed independently as everything will be explained. Last semester, among other things, we
+The course is a sequel of last semester's course on Programming Languages. Nevertheless, with some extra effort, it can also be followed independently as everything will be explained. Last semester, among other things, we
 - explained the basic ideas of parsing,
 - saw some simple context free grammars in BNFC,
-- wrote some functional programs (in LambdNat)
-- modified an interpreter written in Haskell to accommodate implement new language features.
+- wrote some functional programs (in Haskell and LambdNat)
+- modified an interpreter written in Haskell to implement new language features.
 
 This semester, we move from building our own toy language to a challenging fragment of C++. This means that we will study the following classic compiler topics:
 - lexing/finite automata
@@ -91,6 +81,16 @@ This semester, we move from building our own toy language to a challenging fragm
 - type checking/type theory
 - interpretation/operational semantics
 - code generation 
+
+In more practical terms, we will have assignments on creating the following for a fragment of C++:
+
+- a grammar
+- a typechecker 
+- an interpreter 
+- a compiler to Webassembly
+
+In particular there will be an opportunity to learn about Webassembly.
+
 
 These topics have a practical and a theoretical side. The practical side consists in implementing lexers, parsers, type checkers, interpreters, etc. The theoretical side abstracts away from the implementation details and allows to specify and verify the algorithms that need to be implemented. We will not go into the mathematical aspects of the theory, which proves theorems about the correctness or complexity of the algorithms or also sometimes proves the non-existence of algorithms for certain classes of problems. But we will need to learn enough theory, so that we understand how it helps us to specify and to correctly implement the algorithms in questions.
 
@@ -103,13 +103,11 @@ The first part of the course on lexing and parsing is about how to construct the
 
 ## Required Text
 
-We will follow the book [Implementing Programming Languages](http://www.grammaticalframework.org/ipl-book/) by [Aarne Ranta](http://www.cse.chalmers.se/~aarne/). Currently, the plan is to work through Chapters 2 - 6, which are available [online](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).  There is also a [list of errata](https://github.com/andreasabel/plt-errata). 
+We will follow the book Implementing Programming Languages by Aarne Ranta. Currently, the plan is to work through Chapters 2 - 6, which are available online.
 
 ## Course Materials
 
-The [required text](required-text.md).
-
-For DFA, NFA, etc I will use the classic book [Introduction to Automata Theory, Languages, and Computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf).
+For DFA, NFA, etc I will use the classic book Introduction to Automata Theory, Languages, and Computation.
 
 Quick links to BNFC installation instructions and other documentation, to be used in addition to the official [BNFC tutorial](http://bnfc.digitalgrammars.com/tutorial/bnfc-tutorial.html) and the  book [Implementing Programming Languages](http://www.grammaticalframework.org/ipl-book/):
 
@@ -123,23 +121,19 @@ Quick links to BNFC installation instructions and other documentation, to be use
 
 ## Assessment
 
-- 5% of the course: Participation in lectures and office hours as well as asking, discussing, and answering questions on the [discussion forum](https://groups.google.com/forum/#!forum/chapman-compiler-construction-2020).
+- 4% of the course: Participation in lectures and office hours as well as asking, discussing, and answering questions on the discussion forum.
 
-- 45% of the course: 5 assignments, worth 9% each. 
+- 56% of the course: 4 assignments, worth 14% each. 
 
-- 50% of the course on theoretical aspects such as automata, grammars, type inference, etc: 
-  - 4 tests worth 5% each. 
-    - Test 1: Finite Automata. Date tba.
-    - Test 2: Parsing. Date tba.
-    - Test 3: Type Theory. Date tba.
-    - Test 4: Operational Semantics. Date tba.
+- 40% of the course on theoretical aspects such as automata, grammars, type inference, etc: 
+  - 1 midterm worth 10%. 
   - Final exam worth 30%. The final exam will cover the same material as the tests. 
 
   
 ## Assignments
 
 The programming assignments
-- can be done in groups of up to 3 students.
+- can be done in groups of up to 2 students.
 - must be submitted via a private GitHub repository shared with me (send me an email when you submit).
 - are  typically due at 11:59 pm on the given date. 
 
@@ -150,11 +144,10 @@ Moreover,
 
 There will be the following assignments. Deadlines, links, instructions will be added in due course.
 
-  - Assignment 1: Searching Strings. Deadline Friday Feb 14, 11:59pm. 
-  - Assignment 2: Grammar and Parser for C++. Deadline tba. 
-  - Assignment 3: Type Checker for CPP. Deadline tba.    
-  - Assignment 4: Interpreter for CPP. Deadline tba.       
-  - Assignment 5: Code Generator for CPP. Deadline tba
+  - Assignment: Grammar and Parser for C++. Deadline tba. 
+  - Assignment: Type Checker for CPP. Deadline tba.    
+  - Assignment: Interpreter for CPP. Deadline tba.       
+  - Assignment: Code Generator for CPP. Deadline tba
 
 ## Course Grade Breakdown
 
@@ -194,8 +187,6 @@ See Assessment.
 
 ## Final Exam Time
 Please double check the [Final Exam Schedule ](https://www.chapman.edu/students/academic-resources/registrar/student-services/final-exam-schedule.aspx).
-- 402-01: 10:45 - 1:15 AM-PM, Tuesday, May 19
-- 402-02: 1:30 - 04:00 PM, Thursday, May 21
 
 
 ## Policies required to be listed via University guidelines

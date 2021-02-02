@@ -16,7 +16,7 @@ There is also a [list of errata](https://github.com/andreasabel/plt-errata). The
 
 For finite automata (DFA, NFA, regular expressions, etc), we will use the classic book 
 
-- [Introduction to Automata Theory, Languages, and Computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf).
+- [Introduction to Automata Theory, Languages, and Computation](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20%282006%29.pdf).
 
 If you want to learn more about parsing than needed for the course I recommend 
 

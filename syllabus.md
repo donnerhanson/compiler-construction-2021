@@ -3,18 +3,21 @@
 ## General Information
 - Class: CPSC 402 Compiler Construction 
 - Instructor: [Alexander Kurz](https://alexhkurz.github.io/)  
-- Lectures: tba 
-- Office Hours: tba
+- Lectures: TuTh 8:30AM - 9:45AM, TuTh 1:00PM - 2:15PM (online for now, in Keck 156 if we move to classroom teaching) 
+- Office Hours: TuTh 9:45AM - 10:15AM
 
 ## Course Description 
 
-**The aim of the course** is to have a look under the hood of programming languages. How do programming languages work? Could you design your own programming language? Instead of looking at particular examples of programming languages, we will build our own. It will be a small language and not the implementation will not be efficient, but we will be able to understand in all detail how it works. 
+This course teaches compiler construction not as a low level machine language oriented course but as a high level software engineering course. The aim is to give students the means to design and implement their own domain specific language (DSL). The [quote](http://wiki.c2.com/?DomainSpecificLanguage)
 
-Next semester, in Compiler Construction, we will demonstrate that the principles we learn this semester also apply to industrial scale programming languages such as C++. 
+        Any sufficiently large software project becomes a DSL by virtue of the
+        library of functions built up to implement the solution to the specific
+        problem the project was conceived to address. 
 
-**Prerequisites:** I assume that you know at least one, ideally a few more, programming languages. It would also be good to have learned something about computer architecture. One theme of the course is how to bridge the gap between a programming language and the actual machine, so some awareness of how actual machines work is needed to fully appreciate the material. Finally, while I will introduce the mathematics that we need to engineer our programming languages, some ability in manipulating formal mathematical models as typically aquired in a discrete mathematics or introductory logic course will be needed.
+indicates how DSLs are related to software engineering in general.
 
-Note that this has been modified from the current [course catalogue](https://catalog.chapman.edu/content.php?catoid=11&navoid=556).
+While writing a fully fledged compiler is a big task beyond what we can do in a one semester course, with a good mix of theory based software engineering tools, it is well in the scope of a semester to learn how to create a grammar, parser, typechecker, interpreter and code generator for a small but realistic programming language. In our case, we choose a fragment of C++, which should be familiar to many students and emphasises that the taught methods apply to real existing mainstream programming languages.
+
 
 ## Course Learning Outcomes
 
@@ -51,18 +54,16 @@ Grading scale used for the course:
 
 You must score a 70 or above to receive a P when taking the course P/NP.
 
-
-
 ## Late Policy
 If you need more time for an assignment that may be possible if
-- you can prove to me that you already have done serious work on the assignment (for example by showing me the code in your GitHub repository);
-- you can explain the special circumstances that make you think that you should get more time for the assignment than the other students.
+- you can prove to me that you already have done work on the assignment (for example by showing me code in your GitHub repository);
+- you can explain the special circumstances that make you ask for more time.
 
 ## Participation
 
-- It is expected that students attend every lecture and participate in the [Discussion Forum](). 
+- It is expected that students attend every lecture and participate in the [Discussion Forum](https://groups.google.com/g/chapman-compiler-construction-2021). 
 - I also appreciate if students make use of the office hours, which gives me valuable feedback on how the class is going.
-- Participation will contribute 5% to the final course grade, see [Assessment](assessment.md).
+- Participation will contribute 4% to the final course grade, see [Assessment](assessment.md).
 
 ## Exams
 See [Assessment](assessment.md). 
@@ -74,7 +75,7 @@ See [Assessment](assessment.md).
 
 
 ## Final Exam Time
-Please double check the [Final Exam Schedule ](https://www.chapman.edu/students/academic-resources/registrar/student-services/final-exam-schedule.aspx).
+The official times will be available in the [Final Exam Schedule](https://www.chapman.edu/students/academic-resources/registrar/student-services/final-exam-schedule.aspx), but it is likely that you will get a 2-day take home instead.
 
 
 ## Policies required to be listed via University guidelines

@@ -4,7 +4,6 @@
 
 The [required text](required-text.md).
 
-For DFA, NFA, etc I will use the classic book [Introduction to Automata Theory, Languages, and Computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf).
 ## BNFC resources
 
 Quick links to BNFC installation instructions and other documentation, to be used in addition to the official [BNFC tutorial](http://bnfc.digitalgrammars.com/tutorial/bnfc-tutorial.html) and the  book [Implementing Programming Languages](http://www.grammaticalframework.org/ipl-book/):
@@ -23,11 +22,7 @@ Quick links to BNFC installation instructions and other documentation, to be use
 
 I use the following script to compile and test the grammars for Assignment 2. Run as `test1-install cpp` if `cpp.cf` is the name of the grammar.
 
-- [test1-install](https://github.com/alexhkurz/compiler-construction-2020/blob/master/Sources/Scripts/test1-install)
-
-Matt Raymond wrote a script `bfrun` also doing some clean-up available at
-
-- [bfrun](https://github.com/m4ttr4ymond/bfrun/blob/master/bfrun)
+- [test1-install](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Scripts/test1-install)
 
 ## Lecture notes
 

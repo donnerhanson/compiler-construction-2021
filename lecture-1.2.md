@@ -1,6 +1,8 @@
 # Finite Automata as a Specification Language
 
-The aim of this lecture is not yet to introduce the theory of fintie automata (that will come later), but to give you just enough background so that you can apply finite automata to the solution of [Assignment 1](https://hackmd.io/@alexhkurz/SyzUgMabU).
+In class we discussed the task of [searching for a string](https://hackmd.io/@alexhkurz/Sk555wUlu) in text.
+
+Time permitting, we also looked at  [A Short Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP).
 
 ## Deterministic Finite Automata (DFAs)
 
