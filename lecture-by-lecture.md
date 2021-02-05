@@ -1,4 +1,4 @@
-# Lecture by Lecture
+# Lecture by Lecture 
 
 **Homework** is essential preparation for midterm and final but not graded. Ask any questions on the discussion forum. **Excursions** are optional.
 
