@@ -10,5 +10,5 @@ In the first week we find that automata are a good specification language to spe
 
 - L1.2: Answers to homework questions. [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Excursion on [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8). Practice what you have learned with this important [Homework](homework-1.2.md).
 
-Coming soon: What do we do if the DFAs get too complicated? We need a specification language for DFAs ... Composing Automata ... Regular Expressions ... 
+Coming soon: What do we do if the DFAs get too complicated? We need a specification language for DFAs ... Composing Automata ... Regular Expressions ... What do we do if the regular expressions get [too complicated](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html)?
 
