@@ -34,11 +34,13 @@ As always, I am grateful to my colleagues from whom I learned myself. Regular di
 
 **Various Links**:
 
-These should probably go somewhere else, but I collect them here for now. (Thanks to Matt Raymond for providing links.)
+These should probably go somewhere else, but I collect them here for now. (Thanks to Matt Raymond for providing some of the links.)
+
+- Excellent article on history and implementation of [regexp search](https://swtch.com/~rsc/regexp/regexp1.html).
 
 - [Regexp-based address validation](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html). We introduced automata as a specification language for search algorithms and regexps as a specification language for automata. This article highlights the use of Perl as a specification language for regexps. This building of languages on top of other languages is typical for software engineering.
 
-- [Parsing HTML with Regexps?](https://news.ycombinator.com/item?id=10282121). Read this thread to self-test your knowledge of lexing and parsing (and learn a few new things on the way). 
+- [Parsing HTML with Regexps?](https://news.ycombinator.com/item?id=10282121) Read this thread to self-test your knowledge of lexing and parsing (and learn a few new things on the way). 
 
 - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf). A great example of the impact of modern compiler techniques: "We have been formally approved to start replacing the legacy infrastructure with our new implementation, meaning that within a few years’ time, all French tax returns will be processed using the compiler described in the present paper."
 - [minimal reproducible examples](https://stackoverflow.com/help/minimal-reproducible-example)
