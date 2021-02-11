@@ -14,15 +14,22 @@ In the second week we go one level up, from automata as a specification language
 
 - L2.1: [Composing Automata (with Homework)](https://hackmd.io/@alexhkurz/ryV_FU7XI) ... [Handwritten notes from the lecture](Sources/Notes-from-the-lecture-Composing-Automata.pdf) ... 
 
-- L2.2: [Regular Expressions (with Homework)](https://hackmd.io/@alexhkurz/HkoNj8mmU) ... 
+- L2.2: [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU) ... [Handwritten notes from the lecture](Sources/Notes-from-lecture-2.2.pdf) ... [Homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) ...  
 
+<!--
 For midterm and final the most relevant skills from Part 1 are:
+- equivalence of regular expressions and non-determinstic finite automata, 
 - the algorithm that eliminates epsilon-transitions,
-- the algorithm that converts NFAs in DFAs 
+- the algorithm that converts NFAs to DFAs 
+-->
 
 ---
 
+
 Coming soon: 
+
+- the algorithm that eliminates epsilon-transitions,
+- the algorithm that converts NFAs to DFAs 
 
 Part 2: Parsing and Context-Free Grammars
 
