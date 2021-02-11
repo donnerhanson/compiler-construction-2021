@@ -24,9 +24,6 @@ For midterm and final the most relevant skills from Part 1 are:
 
 Coming soon: 
 
-
-What do we do if the regular expressions get [too complicated](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html)?
-
 Part 2: Parsing and Context-Free Grammars
 
 ...
