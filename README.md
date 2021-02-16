@@ -38,6 +38,8 @@ These should probably go somewhere else, but I collect them here for now. (Thank
 
 - Excellent article on history and implementation of [regexp search](https://swtch.com/~rsc/regexp/regexp1.html).
 
+- The [obfuscated tiny c compiler](https://bellard.org/otcc/otcc.c) has only 2048 bytes.
+
 - [Regexp-based address validation](http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html). We introduced automata as a specification language for search algorithms and regexps as a specification language for automata. This article highlights the use of Perl as a specification language for regexps. This building of languages on top of other languages is typical for software engineering.
 
 - [Parsing HTML with Regexps?](https://news.ycombinator.com/item?id=10282121) Read this thread to self-test your knowledge of lexing and parsing (and learn a few new things on the way). 
