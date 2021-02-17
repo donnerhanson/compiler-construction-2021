@@ -16,7 +16,7 @@ In the second week we go one level up, from automata as a specification language
 
 - L2.2: [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU) ... [Handwritten notes from the lecture](Sources/Notes-from-lecture-2.2.pdf) ... [Homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) ...  
 
-- L3.1: Continued from last lecture's [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We reviewed Exercises 2.5.3.b and c from [the previous homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) in detail and then discussed the algorithm converting an NFA to a DFA. For a summary of the lecture as well as practice question see the new [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd).
+- L3.1: Continued from last lecture's [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We reviewed Exercises 2.5.3.b and c from [the previous homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) in detail. We also wrote out a DFA for Exercise 2.5.3.a and then discussed the algorithm converting NFAs to DFAs. For a summary of the lecture as well as practice question see the new [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd).
 
 <!--
 For midterm and final the most relevant skills from Part 1 are:
