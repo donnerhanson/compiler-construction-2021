@@ -27,10 +27,10 @@ Rough estimate of deadlines:
 
 | Assignment | Deadline |
 |:---:|:---:|
-1| End of Feb 
-2| 2nd half of March
-3| Mid April
-4| Early May
+1| March 19 
+2| April 11
+3| April 25
+4| May 9
 
 ### Assignment 1
 

@@ -20,20 +20,36 @@ In the second week we go one level up, from automata as a specification language
 
 - L.3.2: Continued from [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We first reviewed the [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd) and looked at the Haskell implementation of the conversion from NFA to DFA from the [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Then we reviewed Exercise 2.5.3.a from the homework of [Composing Automata](https://hackmd.io/@alexhkurz/ryV_FU7XI). Most importantly, we learned an algorithm of how to eliminate epsilon-transitions. For practice questions see the [homework](https://hackmd.io/@alexhkurz/Sy8EDt3Wu). 
 
-This finishes what I consider the most important aspects of DFA, NFA, and regular expressions: **(1)** How to use DFA to search for/recognise patterns of strings (=languages) in a text. **(2)** How to use regular expressions to specify languages. **(3)** How to translate regular expressions to NFA and how to translate NFA to DFA. If we had time the next steps in the story of finite automata would be the following. **(a)** For every DFA there is a regular expression. This completes the proof the famous Kleene theorem that regular expressions and finite automata are equivalent in the sense that they recognise the same languages (called regular languages). **(b)** For every DFA there is an equivalent minimal DFA. This is important as the minimal DFA is the most efficient implementation (in terms of space) of a regular language. 
+This finishes what I consider the most important aspects of DFA, NFA, and regular expressions: **(1)** How to use DFA to search for/recognise patterns of strings (=languages) in a text. **(2)** How to use regular expressions to specify languages. **(3)** How to translate regular expressions to NFA and how to translate NFA to DFA. To summarize:
+
+        reg.exp. ~> NFA ~> DFA ~> code
+
+If we had time the next steps in the story of finite automata would be the following. **(a)** For every DFA there is a regular expression. This completes the proof the famous Kleene theorem that regular expressions and finite automata are equivalent in the sense that they recognise the same languages (called regular languages). **(b)** For every DFA there is an equivalent minimal DFA. This is important as the minimal DFA is the most efficient implementation (in terms of space) of a regular language. 
 
 
 For **midterm and final** the most relevant skills from Part 1 are: equivalence of regular expressions and NFA, the algorithm that eliminates epsilon-transitions, the algorithm that converts NFA to DFA 
 
 
+
+## Part 2: Parsing and Context-Free Grammars
+
+- L4.1: [Assignment 1](https://hackmd.io/@alexhkurz/HJ4KjezfO).
+
+---
+
+coming up soon:
+
+shift-reduce parsing
+
+---
+
+Spring break: March 22-27
+
+Last day of instruction: May 15
+
 ---
 
 
-Coming soon: 
-
-Part 2: Parsing and Context-Free Grammars
-
-...
 
 
 
