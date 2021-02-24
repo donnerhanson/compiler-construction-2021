@@ -16,6 +16,8 @@ In the second week we go one level up, from automata as a specification language
 
 - L2.2: [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU) ... [Handwritten notes from the lecture](Sources/Notes-from-lecture-2.2.pdf) ... [Homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) ...  
 
+In the third week, we learn how to convert regular expressions to NFA and NFA to DFA.
+
 - L3.1: Continued from last lecture's [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We reviewed Exercises 2.5.3.b and c from [Composing Automata](https://hackmd.io/@alexhkurz/ryV_FU7XI) in detail. We also wrote out a DFA for Exercise 2.3.4.a and then discussed the algorithm converting NFA to DFA. For a summary of the lecture as well as practice questions see the new [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd).
 
 - L.3.2: Continued from [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We first reviewed the [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd) and looked at the Haskell implementation of the conversion from NFA to DFA from the [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Then we reviewed Exercise 2.5.3.a from the homework of [Composing Automata](https://hackmd.io/@alexhkurz/ryV_FU7XI). Most importantly, we learned an algorithm of how to eliminate epsilon-transitions. For practice questions see the [homework](https://hackmd.io/@alexhkurz/Sy8EDt3Wu). 
