@@ -34,21 +34,7 @@ Rough estimate of deadlines:
 
 ### Assignment 1
 
-This assignment is best done in groups of two, but can also be done individually. 
-
-[Grammar and Parser for C++](http://www.grammaticalframework.org/ipl-book/assignments/assignment1/assignment1.html). You can start from `bnfc/examples/cpp/cpp.cf`, see also [here](https://github.com/alexhkurz/compiler-construction-2020/blob/master/Sources/Cpp/cpp.cf).  
-  - Deadlines for the test programs is as follows. Submit each of them via email to me.
-      - `hello.cc`: tba
-      - `greet.cc`: tba 
-      - `med.cc`: tba
-      - `grade.cc`: tba
-      - `palin.cc`: tba
-      - `grammar.cc`: tba
-  - Deadline for all programs in `test/good` and  `test/bad`: 
-
-This assignment is a great opportunity to practice proper use of git. Provide a full trail of your work under git. In particular, each time your parser parses successfully a new testfile, it is time to make sure that this grammar is pushed to git. You can then create a new branch to work on the new version of the grammar and merge it back to master when it passes the new test-file. Branches also allow you to work in a group on different versions of the grammar at the same time. For example, while one of you works on statements, the other works on arithmetic expressions.
-
-Use git to share your current version of the grammar with me if you want to ask me a question.
+see Lecture 4.1
  
 ### Assignment 2
 
