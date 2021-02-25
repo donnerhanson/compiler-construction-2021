@@ -42,7 +42,7 @@ For **midterm and final** the most relevant skills from Part 1 are: equivalence 
 
 coming up soon:
 
-shift-reduce parsing
+the bnfc shift-reduce parser
 
 ---
 
