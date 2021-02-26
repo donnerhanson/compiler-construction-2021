@@ -36,7 +36,7 @@ For **midterm and final** the most relevant skills from Part 1 are: equivalence 
 ## Part 2: Parsing and Context-Free Grammars
 
 - L4.1: [Assignment 1](https://hackmd.io/@alexhkurz/HJ4KjezfO).
-- L4.2: [Introduction to Shift-Reduce Parsing](https://hackmd.io/@alexhkurz/rk5PsF2EI).
+- L4.2: [Introduction to Shift-Reduce Parsing](https://hackmd.io/@alexhkurz/rk5PsF2EI) ... handwritten [notes](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-intro-shift-reduce.pdf) from the lecture ...
 
 ---
 
