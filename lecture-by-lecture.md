@@ -28,10 +28,7 @@ This finishes what I consider the most important aspects of DFA, NFA, and regula
 
 If we had time the next steps in the story of finite automata would be the following. **(a)** For every DFA there is a regular expression. This completes the proof the famous Kleene theorem that regular expressions and finite automata are equivalent in the sense that they recognise the same languages (called regular languages). **(b)** For every DFA there is an equivalent minimal DFA. This is important as the minimal DFA is the most efficient implementation (in terms of space) of a regular language. 
 
-
 For **midterm and final** the most relevant skills from Part 1 are: equivalence of regular expressions and NFA, the algorithm that eliminates epsilon-transitions, the algorithm that converts NFA to DFA 
-
-
 
 ## Part 2: Parsing and Context-Free Grammars
 
@@ -46,7 +43,7 @@ For **midterm and final** the most relevant skills from Part 1 are: equivalence 
 
 coming up soon:
 
-...
+Type-checking
 
 ---
 
