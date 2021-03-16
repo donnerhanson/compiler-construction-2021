@@ -50,13 +50,13 @@ For **midterm and final** the most relevant skills from Part 1 are: equivalence 
 
 For us there is another one, namely that type checking can be seen as "interpretation at compile time". Everything we learn about typechecking will help us to understand interpretation better.
 
-- L7.1: Working towards Assignment 3, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html). Main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Read the rest of Chapter 4 to prepare for the next lecture.
+- L7.1: Working towards Assignment 3, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html). Main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Have a look at the rest of Chapter 4 if you want to prepare for the upcoming lectures.
 
 ---
 
 coming up soon:
 
-**Midterm:** First Thursday after Spring Break, Thursday April 1 in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md).
+**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md).
 
 ---
 
