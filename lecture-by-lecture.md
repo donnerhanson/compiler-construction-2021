@@ -52,7 +52,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L7.1: Working towards Assignment 3, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html). Main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Have a look at the rest of Chapter 4 if you want to prepare for the upcoming lectures.
 
-- L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/README.md).
+- L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/).
 
 ---
 
