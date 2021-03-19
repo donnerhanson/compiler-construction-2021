@@ -50,9 +50,9 @@ For **midterm and final** the most relevant skills from Part 1 are: equivalence 
 
 For us there is another one, namely that type checking can be seen as "interpretation at compile time". Everything we learn about typechecking will help us to understand interpretation better.
 
-- L7.1: Working towards Assignment 3, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html). Main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Have a look at the rest of Chapter 4 if you want to prepare for the upcoming lectures.
+- L7.1: Working towards Assignment 3, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html). Main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). 
 
-- L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/).
+- L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
 
 ---
 
