@@ -36,6 +36,7 @@ As always, I am grateful to my colleagues from whom I learned myself. Regular di
 
 These should probably go somewhere else, but I collect them here for now. (Thanks to Matt Raymond for providing some of the links.)
 
+- A [Finite State Machine Editor](https://stonecypher.github.io/jssm-viz-demo/graph_explorer.html), found via [Hackernews](https://news.ycombinator.com/item?id=26578540).
 - Excellent article on history and implementation of [regexp search](https://swtch.com/~rsc/regexp/regexp1.html).
 
 - The [obfuscated tiny c compiler](https://bellard.org/otcc/otcc.c) has only 2048 bytes.

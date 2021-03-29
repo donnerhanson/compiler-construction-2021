@@ -1,6 +1,6 @@
 # Test 2
 
-Consider [this grammar](https://github.com/alexhkurz/compiler-construction-2020/blob/master/Sources/Cpp/cpp.cf).
+Consider [this grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Cpp/Cpp.cf).
 
 1. Show the steps taken by a shift/reduce parser on the program
 
