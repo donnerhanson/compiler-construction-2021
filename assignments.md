@@ -18,9 +18,6 @@ If you get stuck in one of the Assignments 2-5:
 - Discuss with your team member. Try to implement the relevant case. Write your own test programs.
 - If you remain stuck after putting in all this work, commit your code to the repo and send me an email. 
 
-
-For these, fork the repo [here]() (link to be added).
-
 ## Assignments 
 
 Rough estimate of deadlines:
