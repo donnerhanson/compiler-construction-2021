@@ -54,15 +54,15 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
 
+- L8.1: Revision for midterm.
+
+- L8.2: Midterm in class.
+
 ---
 
 coming up soon:
 
-**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email.
-
----
-
-Spring break: March 22-27
+**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email. [Solution](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-on-practice-midterm.pdf). See also the recordings of the Tuesday lecture.
 
 Last day of instruction: May 15
 
