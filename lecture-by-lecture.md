@@ -58,6 +58,12 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L8.2: Midterm in class.
 
+- L9.1 and 9.2: Back to the typechecker. Read Chapter 4.8 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
+
+- L10.1: Interpreter and Operational Semantics. Read Chapters 5.1 and 5.2 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
+
+- L10.2: Starting [Assignment 3](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Interpreter/README.md) on the Interpreter.
+
 ---
 
 coming up soon:
