@@ -2,7 +2,7 @@
 
 The course mostly follows the book [Implementing Programming Languages](http://www.grammaticalframework.org/ipl-book/) by [Aarne Ranta](http://www.cse.chalmers.se/~aarne/). Currently, the plan is to work through Chapters 2 - 6, which are available online:
 
-- [Implementing Programming Languages, online version](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).  
+- Implementing Programming Languages: [online version](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf), [local copy](Sources/plt-book.pdf) 
 
 - Slides:
   - [Chapter 1](http://www.grammaticalframework.org/ipl-book/slides/1-slides-ipl-book.pdf): Intro
