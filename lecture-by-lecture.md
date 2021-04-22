@@ -66,7 +66,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L11.1: Read Chapter 5.3 of the book.
 
-- L11.2: Read Chapter 5.4 and 5.5 of the book.
+- L11.2: Read Chapter 5.4 and 5.5 of the book. [Homework](https://hackmd.io/@alexhkurz/S1wmI_yPO).
 
 ---
 
