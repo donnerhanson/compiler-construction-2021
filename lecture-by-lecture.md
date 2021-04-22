@@ -64,6 +64,10 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L10.2: Starting [Assignment 3](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Interpreter/README.md) on the Interpreter.
 
+- L11.1: Read Chapter 5.3 of the book.
+
+- L11.2: Read Chapter 5.4 and 5.5 of the book.
+
 ---
 
 coming up soon:
