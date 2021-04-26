@@ -70,7 +70,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 ---
 
-**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email. [Solution](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-on-practice-midterm.pdf). See also the recordings of the Tuesday lecture.
+**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email. [Solution](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-on-practice-midterm.pdf). See also the recordings of the Tuesday lecture. Solutions: [Midterm-Morning](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Morning-Solutions.pdf), [Midterm-Afternoon](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Afternoon-Solutions.pdf), [Shift-Reduce-Parsing](https://hackmd.io/@alexhkurz/Sys8OPQUO).
 
 ---
 
