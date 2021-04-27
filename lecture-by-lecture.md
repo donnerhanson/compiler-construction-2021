@@ -68,6 +68,12 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L11.2: Read Chapter 5.4 and 5.5 of the book. [Homework](https://hackmd.io/@alexhkurz/S1wmI_yPO).
 
+- L12.1: Seminar announcement ... Discussion Midterm ... JVM, [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf), [Slides Chapter 5](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/5-slides-ipl-book.pdf). 
+
+- Fowler School of Engineering Seminar: [Andrea Armani](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Seminar-Andrea-Armani.pdf). (2 Participation Points for attending and writing a short post on the discussion forum.)
+
+
+
 ---
 
 **Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email. [Solution](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-on-practice-midterm.pdf). See also the recordings of the Tuesday lecture. Solutions: [Midterm-Morning](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Morning-Solutions.pdf), [Midterm-Afternoon](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Afternoon-Solutions.pdf), [Shift-Reduce-Parsing](https://hackmd.io/@alexhkurz/Sys8OPQUO).
