@@ -60,6 +60,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L9.1 and 9.2: Back to the typechecker. Read Chapter 4.8 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
 
+## Part 4: Interpreter
+
 - L10.1: Interpreter and Operational Semantics. Read Chapters 5.1 and 5.2 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
 
 - L10.2: Starting [Assignment 3](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Interpreter/README.md) on the Interpreter.
@@ -68,10 +70,11 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L11.2: Read Chapter 5.4 and 5.5 of the book. [Homework](https://hackmd.io/@alexhkurz/S1wmI_yPO).
 
-- L12.1: Seminar announcement ... Discussion Midterm ... JVM, [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf), [Slides Chapter 5](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/5-slides-ipl-book.pdf). 
+- L12.1: Seminar announcement ... Discussion Midterm ... JVM, [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf), [Slides Chapter 5](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/5-slides-ipl-book.pdf)
 
-- Fowler School of Engineering Seminar: [Andrea Armani](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Seminar-Andrea-Armani.pdf). (2 Participation Points for attending and writing a short post on the discussion forum.)
+## Part 5: Code Generation
 
+- L 12.2: [Compiling C++ to WASM](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.1.md) and [Assignment 5](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Compiler/README.md).
 
 
 ---

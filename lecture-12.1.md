@@ -1,6 +1,6 @@
 # Webassembly
   
-The aim of this lecture is to understand how to compile by hand C++ to Webassembly. This is in preperation to Assignment 5 for which we write a compiler from our fragment of C++ to Webassembly.
+The aim of this lecture is to understand how to compile by hand C++ to Webassembly. 
   
 - We start with an example.
 - We give a short introduction to Webassembly.
@@ -44,7 +44,7 @@ Start by installing `node.js` and the [Webassembly Binary Toolkit](https://githu
 
 To follow this lecture:
 
-- make a local copy of [`Compiler-Assignment-5`](https://github.com/alexhkurz/compiler-construction-2020/tree/master/Compiler-Assignment-5)
+- make a local copy of [`Compiler-Assignment-5`](https://github.com/alexhkurz/compiler-construction-2021/tree/master/Compiler-Assignment-5)
 
 - change directory to `Compiler-Assignment-5`
 
@@ -93,6 +93,9 @@ To test whether the translation `fibonacci.wat` has the same observable behaviou
       ./fibonnacci
 
 #### Run the Wat program
+
+(we have done this above already)
+
 - observe the behaviour of the Wasm program:
 
         node wat2wasm.js fibonacci.wat
@@ -160,7 +163,7 @@ One important resource is the [language definition](https://webassembly.github.i
 - the [typing rules](https://webassembly.github.io/spec/core/valid/index.html) and
 - the [operational semantics](https://webassembly.github.io/spec/core/exec/index.html).
 
-But while these are the most important reference, it is not a good starting point for learning the language.
+But while these are the most important references, this is not a necessarily the best starting point.
 
 Instead we take a language we know, C++, and see how to translate it to Wasm (or, rather, Wat).
 
