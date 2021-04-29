@@ -44,9 +44,9 @@ Start by installing `node.js` and the [Webassembly Binary Toolkit](https://githu
 
 To follow this lecture:
 
-- make a local copy of [`Compiler-Assignment-5`](https://github.com/alexhkurz/compiler-construction-2021/tree/master/Compiler-Assignment-5)
+- make a local copy of [`Compiler-Assignment-Intro`](https://github.com/alexhkurz/compiler-construction-2021/tree/master/Compiler-Assignment-Intro)
 
-- change directory to `Compiler-Assignment-5`
+- change directory to `Compiler-Assignment-Intro`
 
 - install [wabt](https://www.npmjs.com/package/wabt)
 
@@ -56,8 +56,8 @@ To follow this lecture:
 
 In this lecture we will learn how to translate by hand simple C++ programs to WebAssembly, or to Wat, more precisely.
 
-- Our running example is [`fibonacci.cc`](Compiler-Assignment-5/fibonacci.cc) from `/test/good`.
-- Its translation is [`fibonacci.wat`](Compiler-Assignment-5/fibonacci.wat).
+- Our running example is [`fibonacci.cc`](Compiler-Assignment-Intro/fibonacci.cc) from `/test/good`.
+- Its translation is [`fibonacci.wat`](Compiler-Assignment-Intro/fibonacci.wat).
 
 In order to run Wat programs we need to compile Wat to Wasm:
 
@@ -86,7 +86,7 @@ To test whether the translation `fibonacci.wat` has the same observable behaviou
 #### Run the C++ program
 
 - add the header `#include "env.h"` to `fibonnaci.cc`
-- make sure you have `env.h`, see [here](Compiler-Assignment-5/env.h)
+- make sure you have `env.h`, see [here](Compiler-Assignment-Intro/env.h)
 - observe the behaviour of the C++ program:
 
       gcc fibonacci.cc -o fibonacci
@@ -231,9 +231,9 @@ and the compiled Webassembly program
      (export "main" (func $main))
     )
 
-**Activity:** Make a table matching the C++ program and the WAT program line by line. ([Answer](Compiler-Assignment-5/fibonacci.md).)
+**Activity:** Make a table matching the C++ program and the WAT program line by line. ([Answer](Compiler-Assignment-Intro/fibonacci.md).)
 
-**Exercise:** Translate to Wat the program [ass_in_arith-short.cc](Compiler-Assignment-5/ass_in_arith-short.cc):
+**Exercise:** Translate to Wat the program [ass_in_arith-short.cc](Compiler-Assignment-Intro/ass_in_arith-short.cc):
 
     int main() {
       int x = 50;
