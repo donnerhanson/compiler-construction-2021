@@ -74,7 +74,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 ## Part 5: Code Generation
 
-- L 12.2: [Compiling C++ to WASM](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.1.md) and [Assignment 5](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Compiler/README.md).
+- L 12.2: [Compiling C++ to WASM](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.1.md) and [Assignment 4](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Compiler/README.md).
 
 
 ---
